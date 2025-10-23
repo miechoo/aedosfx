@@ -34,7 +34,7 @@ AedosFX is a web-based Flutter application for sound processing and mixing using
 
 ## Running locally (dev)
 
-1. Clone the repository ```git clone ```
+1. Clone the repository ```git clone https://github.com/miechoo/aedosfx.git```
 1. Go to app directory ```cd app```
 1. Get dependencies: ```flutter pub get```
 1. Run in Chrome: ```flutter run -d chrome```
