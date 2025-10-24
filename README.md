@@ -52,4 +52,4 @@ AedosFX is a web-based Flutter application for sound processing and mixing using
 
 ## License
 
-TODO: Specify a license as appropriate.
+TODO: Specify a license as appropriate
